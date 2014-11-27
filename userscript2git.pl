@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 #
 # Fetches script from userscripts.org with whole history and
 # converts it to git repo
